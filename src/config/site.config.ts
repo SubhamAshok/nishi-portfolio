@@ -95,10 +95,10 @@ export const siteConfig: SiteConfig = {
   ],
 
   gallery: [
-    { src: "/images/gallery/drawing1.jpg", alt: "My drawing 1", title: "Kitty" },
-    { src: "/images/gallery/drawing2.jpg", alt: "My drawing 2", title: "Fishy" },
-    { src: "/images/gallery/drawing3.jpg", alt: "My drawing 3", title: "Hoodie" },
-    { src: "/images/gallery/drawing4.jpg", alt: "My drawing 4", title: "Cute Girl" },
+    { src: "/images/gallery/drawing1.jpeg", alt: "My drawing 1", title: "Kitty" },
+    { src: "/images/gallery/drawing2.jpeg", alt: "My drawing 2", title: "Fishy" },
+    { src: "/images/gallery/drawing3.jpeg", alt: "My drawing 3", title: "Hoodie" },
+    { src: "/images/gallery/drawing4.jpeg", alt: "My drawing 4", title: "Cute Girl" },
   ],
 
   playlist: [
